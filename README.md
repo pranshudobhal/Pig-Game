@@ -1,7 +1,7 @@
-# Pig-Game-1
+# Pig-Game
 
 
-Pig Game Part 1
+Pig Game
 
 
 GAME RULES:
