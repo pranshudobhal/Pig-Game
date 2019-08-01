@@ -1,4 +1,4 @@
-# Pig-Game
+# Pig Game
 
 
 GAME RULES:
