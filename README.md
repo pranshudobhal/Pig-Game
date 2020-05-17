@@ -18,3 +18,8 @@ GAME RULES:
 2. Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100.
 
 3. Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1.
+
+
+# Live Site URL
+
+https://pig-game.pranshudobhal.now.sh/
